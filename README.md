@@ -110,7 +110,7 @@ xcode-select --install
 # End of First Day Installs
 
 :upside_down_face:
-
+* Done - Kayan
 
 ### These will be done later:
 
